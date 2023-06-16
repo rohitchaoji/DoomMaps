@@ -5,4 +5,4 @@ Tested on and compatible with GZDoom 4.10.0
 
 Map list:
  BloodHalls.wad
- Circle.wad (WIP)
+ Circle.wad
